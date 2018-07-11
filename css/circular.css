@@ -1,0 +1,15 @@
+---
+---
+
+.circular {
+	width: 178px;
+	height: 178px;
+	border-radius: 89px;
+	-webkit-border-radius: 89px;
+	-moz-border-radius: 89px;
+	background: url({{ site.url }}/assets/images/mangame.jpg) no-repeat;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	margin: 0 auto;
+	}
